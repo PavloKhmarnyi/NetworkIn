@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">NetworkIn</string>
+    <string name="title_network_detail">Network Detail</string>
+    <string name="title_networks_list">Network In</string>
+    <string name="title_allow_networks_list">Allow networks</string>
+    <string name="allow_location_permission_message">Location permissions is allowed!</string>
+    <string name="not_allow_location_permission_message">Location permissions is not allowed!</string>
+</resources>
